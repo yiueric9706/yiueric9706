@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Eric.
+- 👀 I’m interested in any tech.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and ruby as of Dem, 2021.
